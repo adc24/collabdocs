@@ -1,0 +1,6 @@
+PENDING — NO VIDEO HAS BEEN RECORDED OR UPLOADED BY THIS APPLICATION.
+
+Record the actual product using WALKTHROUGH_SCRIPT.md (target: 4 minutes).
+Upload to an unlisted Loom or public YouTube/Vimeo/Drive link.
+Replace this file's contents with the real video URL, update SUBMISSION.md,
+and verify the link opens without requesting access or payment.
